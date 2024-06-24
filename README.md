@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [Climate Change Weather Station tutorial](barnsley-libraries-climate-change-weather-station/tutorial)
+* [Climate Change Weather Station tutorial](/tutorial)
 * [Part 1: Climate Change Weather Station tutorial in editor](https://makecode.microbit.org/#tutorial:github:brightbox-education/barnsley-libraries-climate-change-weather-station/tutorial)
 
 
