@@ -1,14 +1,12 @@
 
 > Open this page at [https://brightbox-education.github.io/barnsley-libraries-climate-change-weather-station/](https://brightbox-education.github.io/barnsley-libraries-climate-change-weather-station/)
 
-## Use as Extension
+## Tutorials
 
-This repository can be added as an **extension** in MakeCode.
+* [Climate Change Weather Station tutorial](barnsley-libraries-climate-change-weather-station/tutorial)
+* [Part 1: Climate Change Weather Station tutorial in editor](https://makecode.microbit.org/#tutorial:github:brightbox-education/barnsley-libraries-climate-change-weather-station/tutorial)
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/brightbox-education/barnsley-libraries-climate-change-weather-station** and import
+
 
 ## Edit this project
 
